@@ -40,6 +40,8 @@ $game->startThisGame();
 
 <?php
 
+// A Tie cannot occur
+
 
 class baseballGameGens {   //Defining class
     private $homes = 0;   //Private property to store scores
